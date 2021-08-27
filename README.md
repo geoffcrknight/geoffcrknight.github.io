@@ -1,8 +1,5 @@
-Flippy Cat
+Crypto Cat
 ===========
-
-A MelonJS made "Flappy Bird" clone forked from [@ellisonleao](http://github.com/ellisonleao).
-This was my [*winning*](https://github.blog/2015-04-21-game-off-iii-everyone-s-a-winner/) entry for the Github Game Off 2015.
 
 Modifications to the game include :
   - Gravity of the game can flip/invert at random thus increasing its difficulty.
@@ -17,11 +14,4 @@ For starters I have completely changed the art/theme of the game. I've added a n
 
 Most importantly flippy cat can "change" at any moment.
 The gravity of the game is set to flip at random.  
-
-
-![](https://raw.githubusercontent.com/t4nuj/clumsy-bird/gh-pages/data/img/screen1.png)
-
-![](https://raw.githubusercontent.com/t4nuj/clumsy-bird/gh-pages/data/img/screen2.png)
-
-Play online at http://t4nuj.github.io/clumsy-bird/
-    
+   
